@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile! ☁ <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60px" />
+## Welcome to my GitHub profile! ☁ https://media.giphy.com/media/111ebonMs90YLu/giphy.gif
 
 I'm a Platform & DevOps Engineer with a strong focus on building scalable cloud infrastructure, modern CI/CD pipelines, and internal developer platforms using tools like Terraform, Kubernetes, Azure, and GitHub Actions.
 
