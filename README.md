@@ -4,9 +4,9 @@
 
 # 🧑 Lloyd Mason - Azure Solution Architect
 
-I'm a Platform & DevOps Engineer with a strong focus on building scalable cloud infrastructure, modern CI/CD pipelines, and developer platforms using tools like Terraform, Kubernetes, Azure.
+I'm a Platform & DevOps Engineer with a strong focus on building scalable cloud infrastructure, implementing modern CI/CD pipelines, and developing cloud platforms that elevate Developer Experience (DevEx) through automation, intuitive tooling, and self-service capabilities.
 
-I’m passionate about automation, clean architecture, and enabling teams through well-documented, secure, and self-service solutions.
+I focus on automation, clean architecture, and supporting teams by delivering secure, well-documented, and developer-friendly solutions.
 
 📁 Check out my infrastructure templates, scripting workflows, and DevOps solutions in my repo catalogue.
 
