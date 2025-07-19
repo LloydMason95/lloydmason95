@@ -8,6 +8,8 @@ I'm a Platform & DevOps Engineer with a strong focus on building scalable cloud 
 
 I’m passionate about automation, clean architecture, and enabling teams through well-documented, secure, and self-service solutions.
 
+📁 Check out my infrastructure templates, scripting workflows, and DevOps solutions in my repo catalogue.
+
 <h2> 🚀 &nbsp;Some tools I Have in my tech stack</h2>
 
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0078D4)
