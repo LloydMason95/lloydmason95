@@ -6,7 +6,7 @@
 
 I'm a Platform & DevOps Engineer with a strong focus on building scalable cloud infrastructure, implementing modern CI/CD pipelines, and developing cloud platforms that elevate Developer Experience (DevEx) through automation, intuitive tooling, and self-service capabilities.
 
-I focus on automation, clean architecture, and supporting teams by delivering secure, well-documented, and developer-friendly solutions.
+I take on project with deliverables focused on developing strategic cloud roadmaps, designing solution architectures, and driving product development initiatives. My work helps organizations align cloud investments with business objectives by delivering scalable, secure platforms and modernizing legacy developing processes. With a strong focus on Azure and cloud-native technologies, I contribute across strategy, architecture, and hands-on implementation to enable meaningful outcomes.
 
 📁 Check out my infrastructure templates, scripting workflows, and DevOps solutions in my repo catalogue.
 
