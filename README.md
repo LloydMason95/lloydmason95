@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+my+profile🤖&animation=fadeIn&type=soft&color=0:87CEEB,100:F0FFFF&fontColor=000000&fontSize=32&height=150"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+my+profile🤖&animation=fadeIn&type=soft&color=0:C0C0C0,100:ECECEC&fontColor=000000&fontSize=32&height=150"/>
+  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+my+profile+🤖&animation=fadeIn&type=soft&color=0:4B5563,100:D1D5DB&fontColor=111111&fontSize=32&height=150"/>
 </p>
 
 # 🧑 Lloyd Mason - Azure Solution Architect
