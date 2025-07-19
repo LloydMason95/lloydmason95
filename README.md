@@ -4,13 +4,13 @@
 
 # 🧑 Lloyd Mason - Azure Solution Architect
 
-I'm a Platform & DevOps Engineer with a strong focus on building scalable cloud infrastructure, implementing modern CI/CD pipelines, and developing cloud platforms that elevate Developer Experience (DevEx) through automation, intuitive tooling, and self-service capabilities.
+I'm a Platform & DevOps Engineer with a strong focus on building platforms on scalable cloud infrastructure, implementing modern CI/CD pipelines, and focus on Developer Experience (DevEx) through automation, intuitive tooling, and self-service capabilities.
 
-I take on project with deliverables focused on developing strategic cloud roadmaps, designing solution architectures, and driving product development initiatives. My work helps organizations align cloud investments with business objectives by delivering scalable, secure platforms and modernizing legacy developing processes. With a strong focus on Azure and cloud-native technologies, I contribute across strategy, architecture, and hands-on implementation to enable meaningful outcomes.
+I take on projects that span from developing cloud solutions, strategic cloud roadmapping and solution architecture. My work helps organizations align their cloud investments with business goals by engineering secure, scalable platforms, modernizing software delivery processes, and enabling efficient cloud-native operations. With deep expertise in Azure and modern DevOps practices, I contribute across planning, architecture, and end-to-end implementation to deliver meaningful technical outcomes.
 
 📁 Check out my infrastructure templates, scripting workflows, and DevOps solutions in my repo catalogue.
 
-<h2> 🚀 &nbsp;Some tools I Have in my tech stack</h2>
+<h2> 🚀 &nbsp;Some tools I have in my tech stack</h2>
 
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0078D4)
 ![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=623CE4)
