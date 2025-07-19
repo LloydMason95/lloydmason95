@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome+to+my+profile☁&animation=fadeIn&type=soft&color=0:87CEEB,100:F0FFFF&fontColor=000000&fontSize=32&height=150"/>
 </p>
 
-I'm a Platform & DevOps Engineer with a strong focus on building scalable cloud infrastructure, modern CI/CD pipelines, and developer platforms using tools like Terraform, Kubernetes, Azure.
+I'm a Azure Solution Architect & DevOps Engineer with a strong focus on building scalable cloud infrastructure, modern CI/CD pipelines, and developer platforms using tools like Terraform, Kubernetes, Azure.
 
 I’m passionate about automation, clean architecture, and enabling teams through well-documented, secure, and self-service solutions.
 
