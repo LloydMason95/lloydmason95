@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome+to+my+profile🤖&animation=fadeIn&type=soft&color=0:87CEEB,100:F0FFFF&fontColor=000000&fontSize=32&height=150"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+my+profile🤖&animation=fadeIn&type=soft&color=0:C0C0C0,100:ECECEC&fontColor=000000&fontSize=32&height=150"/>
+</p>
+
 # 🧑 Lloyd Mason - Azure Solution Architect
 
 I'm a Platform & DevOps Engineer with a strong focus on building scalable cloud infrastructure, modern CI/CD pipelines, and developer platforms using tools like Terraform, Kubernetes, Azure.
