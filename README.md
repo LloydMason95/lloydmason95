@@ -6,7 +6,7 @@ I'm a Platform & DevOps Engineer with a strong focus on building scalable cloud 
 
 I’m passionate about automation, clean architecture, and enabling teams through well-documented, secure, and self-service solutions.
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some tools I Have in my tech stack</h2>
 
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0078D4)
 ![](https://img.shields.io/badge/Code-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=623CE4)
@@ -21,19 +21,6 @@ I’m passionate about automation, clean architecture, and enabling teams throug
 ![](https://img.shields.io/badge/Tools-Shuttle-informational?style=flat&color=8A2BE2)
 ![](https://img.shields.io/badge/Tools-Cilium-informational?style=flat&logo=cilium&logoColor=white&color=587AB6)
 
-<!--
-**LloydMason95/lloydmason95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👻 &nbsp;Socials</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lloyd-mason/)
