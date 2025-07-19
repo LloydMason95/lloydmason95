@@ -1,6 +1,8 @@
-## Welcome to my GitHub profile! ☁ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+my+profile!☁&animation=fadeIn&type=soft&color=0:87CEEB,100:F0FFFF&fontColor=FFD700&fontSize=38&height=150"/>
+</p>
 
-I'm a Platform & DevOps Engineer with a strong focus on building scalable cloud infrastructure, modern CI/CD pipelines, and internal developer platforms using tools like Terraform, Kubernetes, Azure, and GitHub Actions.
+I'm a Platform & DevOps Engineer with a strong focus on building scalable cloud infrastructure, modern CI/CD pipelines, and developer platforms using tools like Terraform, Kubernetes, Azure.
 
 I’m passionate about automation, clean architecture, and enabling teams through well-documented, secure, and self-service solutions.
 
@@ -18,8 +20,6 @@ I’m passionate about automation, clean architecture, and enabling teams throug
 ![](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=helm&logoColor=white&color=0F1689)
 ![](https://img.shields.io/badge/Tools-Shuttle-informational?style=flat&color=8A2BE2)
 ![](https://img.shields.io/badge/Tools-Cilium-informational?style=flat&logo=cilium&logoColor=white&color=587AB6)
-
-
 
 <!--
 **LloydMason95/lloydmason95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
