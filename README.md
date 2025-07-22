@@ -30,11 +30,16 @@ I take on projects that span from developing cloud solutions, strategic cloud ro
 ![](https://img.shields.io/badge/CI/CD-Azure_DevOps-informational?style=flat&logo=azurepipelines&logoColor=white&color=2560E0)
 ![](https://img.shields.io/badge/Scripting-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE)
 
+### 🧾 Certificates
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/ab58e72e-0166-4f9a-b858-0cda56145cad" />
+
+
+
+
 
 
 
 
 
 <h2>👻 &nbsp;Socials</h2>
-
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lloyd-mason/)
