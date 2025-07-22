@@ -9,6 +9,7 @@ I'm a Platform & DevOps Engineer focused on building scalable cloud platforms, e
 I take on projects that span from developing cloud solutions, strategic cloud roadmapping and solution architecture. My work helps organizations align their cloud investments with business goals by engineering secure, scalable platforms, modernizing software delivery processes, and enabling efficient cloud-native operations. With deep expertise in Azure and modern DevOps practices, I contribute across planning, architecture, and end-to-end implementation to deliver meaningful technical outcomes.
 
 📁 Check out my infrastructure templates, scripting workflows, and DevOps solutions in my repo catalogue.
+My content often focuses on sharing solutions to problems where I spent considerable time analyzing, troubleshooting, and ultimately resolving the issue—so others can save time and avoid the same challenges.
 
 <h2> 🚀 &nbsp;Some tools I have in my tech stack</h2>
 
