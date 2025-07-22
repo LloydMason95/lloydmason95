@@ -23,6 +23,10 @@ I take on projects that span from developing cloud solutions, strategic cloud ro
 ![](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=helm&logoColor=white&color=0F1689)
 ![](https://img.shields.io/badge/Tools-Cilium-informational?style=flat&logo=cilium&logoColor=white&color=587AB6)
 ![](https://img.shields.io/badge/Tools-ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=EF7B4D)
+![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=E6522C)
+![](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=F46800)
+
+
 
 
 <h2>👻 &nbsp;Socials</h2>
