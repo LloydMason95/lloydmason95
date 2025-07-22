@@ -26,6 +26,9 @@ I take on projects that span from developing cloud solutions, strategic cloud ro
 ![](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat&logo=prometheus&logoColor=white&color=E6522C)
 ![](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat&logo=grafana&logoColor=white&color=F46800)
 ![](https://img.shields.io/badge/Monitoring-Dynatrace-informational?style=flat&logo=dynatrace&logoColor=white&color=1496FF)
+![](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2088FF)
+![](https://img.shields.io/badge/CI/CD-Azure_DevOps-informational?style=flat&logo=azurepipelines&logoColor=white&color=2560E0)
+
 
 
 
