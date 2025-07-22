@@ -28,6 +28,8 @@ I take on projects that span from developing cloud solutions, strategic cloud ro
 ![](https://img.shields.io/badge/Monitoring-Dynatrace-informational?style=flat&logo=dynatrace&logoColor=white&color=1496FF)
 ![](https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2088FF)
 ![](https://img.shields.io/badge/CI/CD-Azure_DevOps-informational?style=flat&logo=azurepipelines&logoColor=white&color=2560E0)
+![](https://img.shields.io/badge/Scripting-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE)
+
 
 
 
